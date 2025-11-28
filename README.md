@@ -1,6 +1,6 @@
 ### Hello! 🦥 I am `shyAbid`
 I like to play chess and write programs in my leasure<br> 
-More about me here: [shyabid.me](https://shyabid.me)<br>
+More about me here: [shyabid.com](https://shyabid.com)<br>
 
 <img height="150" align="center" src="https://github-readme-stats-gamma-vert-43.vercel.app/api/top-langs?username=shyabid&layout=compact&langs_count=8&card_width=320&count_private=true&theme=dracula&bg_color=01010100&border_color=ffffff&title_color=ffffff&show_icons=true" />
   
